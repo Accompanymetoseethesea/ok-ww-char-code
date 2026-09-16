@@ -2,8 +2,8 @@
   "repository": "ok-oldking/ok-ww-char-code",
   "pageUrl": "https://okwwcharcode.ok-script.com",
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams.json",
-  "totalTeams": 27,
-  "totalCodes": 35,
+  "totalTeams": 28,
+  "totalCodes": 36,
   "teams": [
     {
       "team": "Aemeath, Augusta, Baizhi",
@@ -475,6 +475,38 @@
           "sizeFormatted": "42.29 KB",
           "timestamp": 1788692734,
           "modifiedAt": "2026-09-06T11:05:34.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Cartethyia, Chisa, Ciaccona",
+      "slug": "Cartethyia_Chisa_Ciaccona",
+      "members": [
+        "Cartethyia",
+        "Chisa",
+        "Ciaccona"
+      ],
+      "totalCodes": 1,
+      "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Cartethyia_Chisa_Ciaccona.json",
+      "codes": [
+        {
+          "filename": "Cartethyia_Chisa_Ciaccona_楽山_1.0.0.zip",
+          "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Cartethyia_Chisa_Ciaccona_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Cartethyia_Chisa_Ciaccona_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+          "name": "Cartethyia_Chisa_Ciaccona",
+          "description": "卡夏千4R8下落轴\n样本：31卡提00夏空00千咲\n共效：卡提130 夏空140 千咲150（奶套）\n位置：一号位卡提 二号位夏空 三号位千咲\n实机已跑通，稳定度尚可，已经加了部分保底，流程中间转火可能会乱轴 在卡提R2前后问题不大。",
+          "author": "楽山",
+          "version": "1.0.0",
+          "team": "Cartethyia, Chisa, Ciaccona",
+          "members": [
+            "Cartethyia",
+            "Chisa",
+            "Ciaccona"
+          ],
+          "size": 29753,
+          "sizeFormatted": "29.06 KB",
+          "timestamp": 1789601910,
+          "modifiedAt": "2026-09-16T23:38:30.000Z"
         }
       ]
     },
