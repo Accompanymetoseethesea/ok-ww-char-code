@@ -10,23 +10,23 @@
   "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Denia_Mornye_Qingxiao.json",
   "codes": [
     {
-      "filename": "Denia_Mornye_Qingxiao_Kexeyna_2.0.0.zip",
-      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Denia_Mornye_Qingxiao_Kexeyna_2.0.0.zip",
-      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Denia_Mornye_Qingxiao_Kexeyna_2.0.0.zip",
+      "filename": "Denia_Mornye_Qingxiao_Kexeyna_1.0.2.zip",
+      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Denia_Mornye_Qingxiao_Kexeyna_1.0.2.zip",
+      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Denia_Mornye_Qingxiao_Kexeyna_1.0.2.zip",
       "name": "Denia_Mornye_Qingxiao",
-      "description": "清达莫轮切2.0\n优化了官方三个角色的代码\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t莫宁：0+0（佩戴《异响空灵》），共鸣效率 260.8%\n达妮娅：0+0（佩戴《漪澜浮录》），共鸣效率 120.4%\n清宵：0+1（佩戴专武），共鸣效率 106.8%\n【轴体运行说明】 源码已完成优化升级，系统运行极为稳定。\n上述效率面板实测运行顺畅，数值均为向上取值，轴体容错率较高。\n效率低于面板10%~20%时，只要不过低，仍可打出设计参照的完整循环。\n效率过低时虽无法完成预设的完整流程，但仍可维持基础循环，不会引发技能冷却卡死或角色罚站。更低效率极值未作测试。",
+      "description": "清达莫轮切轴优化\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n基于官方代码优化，释放声骸及其一些小改动 \n清宵：143.2% 0+专武 \n达妮娅：120.4% 0+漪澜浮录 \n莫宁：274.2% 0+异响空灵\n仅在这两种环境测试过，其余环境没试过，充能大于以下即可，更低值未测试过\n莫宁：0+0《异响空灵》，共鸣效率 260.8% \n达妮娅：0+0《漪澜浮录》，共鸣效率 120.4% \n清宵：0+1，共鸣效率 106.8%",
       "author": "Kexeyna",
-      "version": "2.0.0",
+      "version": "1.0.2",
       "team": "Denia, Mornye, Qingxiao",
       "members": [
         "Denia",
         "Mornye",
         "Qingxiao"
       ],
-      "size": 3814,
-      "sizeFormatted": "3.72 KB",
-      "timestamp": 1789199924,
-      "modifiedAt": "2026-09-12T07:58:44.000Z"
+      "size": 3482,
+      "sizeFormatted": "3.4 KB",
+      "timestamp": 1789630460,
+      "modifiedAt": "2026-09-17T07:34:20.000Z"
     },
     {
       "filename": "Denia_Mornye_Qingxiao_楽山_1.0.0.zip",
