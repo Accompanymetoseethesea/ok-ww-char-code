@@ -1,0 +1,32 @@
+{
+  "team": "Buling, Cantarella, Phrolova",
+  "slug": "Buling_Cantarella_Phrolova",
+  "members": [
+    "Buling",
+    "Cantarella",
+    "Phrolova"
+  ],
+  "totalCodes": 1,
+  "jsonUrl": "https://okwwcharcode.ok-script.com/teams/Buling_Cantarella_Phrolova.json",
+  "codes": [
+    {
+      "filename": "Cantarella_Buling_Phrolova_楽山_1.0.0.zip",
+      "downloadUrl": "https://okwwcharcode.ok-script.com/codes/Cantarella_Buling_Phrolova_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+      "rawUrl": "https://raw.githubusercontent.com/ok-oldking/ok-ww-char-code/main/codes/Cantarella_Buling_Phrolova_%E6%A5%BD%E5%B1%B1_1.0.0.zip",
+      "name": "Cantarella_Buling_Phrolova",
+      "description": "弗坎卜轮椅轴 \n样本：21弗01坎60卜（精2奇幻） \n共效：弗100坎150卜240（仅供参考）\n位置：一号位弗洛洛 二号位坎 三号位卜灵\n实机已跑通 复现难度中 主要问题在于打不出最后一个一日谱 只能4谱 对于面对一些粪怪 可以在操控弗洛洛或者坎的时候 手动闪避一下 不影响流程  注意：由于本次对于弗和坎的强化技能一些图像颜色检测是基于本人环境截图 有可能会在一些人的显示环境里识别不够稳定",
+      "author": "楽山",
+      "version": "1.0.0",
+      "team": "Buling, Cantarella, Phrolova",
+      "members": [
+        "Buling",
+        "Cantarella",
+        "Phrolova"
+      ],
+      "size": 96369,
+      "sizeFormatted": "94.11 KB",
+      "timestamp": 1789601927,
+      "modifiedAt": "2026-09-16T23:38:47.000Z"
+    }
+  ]
+}
